@@ -1,8 +1,7 @@
-# Travel-Website-First
-Bu proje, modern web geliştirme teknolojileri kullanılarak hazırlanmış, duyarlı (responsive) yapıya sahip interaktif bir Food Shop (yemek sipariş) web sitesidir.
+Bu proje, modern ve kullanıcı dostu bir seyahat/turizm web sitesi arayüzü oluşturmak amacıyla geliştirilmiştir. Proje boyunca HTML5, CSS3, JavaScript ve Bootstrap 5 teknolojileri kullanılmıştır.
 
-Projede HTML5, CSS3, Bootstrap 5 ve JavaScript kullanılmıştır. Bootstrap sayesinde mobil uyumlu ve estetik bir kullanıcı arayüzü oluşturulmuştur. JavaScript ile etkileşimli bileşenler geliştirilmiş; örneğin ürün ekleme, sepet yönetimi ve kullanıcı deneyimini artıran dinamik işlevler uygulanmıştır.
+Web sitesi duyarlı (responsive) tasarım prensiplerine uygun olarak geliştirilmiş olup, mobil cihazlar dahil her ekran boyutunda optimum kullanıcı deneyimi sunmaktadır. Bootstrap’in güçlü grid sistemi ve hazır bileşenleri sayesinde hızlı ve etkili bir UI/UX geliştirme süreci sağlanmıştır.
 
-Uygulama, restoran veya kafe tarzı işletmeler için örnek teşkil edecek nitelikte olup, temel e-ticaret sistemlerinin ön yüz mantığını yansıtmaktadır. Sayfa yapısı modüler olarak geliştirilmiş, sade ama modern bir tasarım hedeflenmiştir.
+Sayfada kullanıcıyı karşılayan dikkat çekici başlık alanları, tanıtım bölümleri, destinasyon kartları, hizmet açıklamaları ve çağrı butonları gibi interaktif bileşenler bulunmaktadır. JavaScript ile bazı kullanıcı eylemlerine bağlı animasyonlar ve etkileşimler uygulanmıştır.
 
-Bu proje aynı zamanda frontend geliştirme becerilerini sergilemek, tasarım duyarlılığı ve kullanıcı deneyimi konularında örnek sunmak amacıyla hazırlanmıştır.
+Bu proje, frontend becerilerinin geliştirilmesi, görsel estetik ile fonksiyonel yapının birleştirilmesi ve portföy amaçlı bir sunum olarak hazırlanmıştır. Turizm, otelcilik veya etkinlik tanıtımı gibi sektörlerde ön yüz tasarımı için temel bir örnek teşkil eder.
